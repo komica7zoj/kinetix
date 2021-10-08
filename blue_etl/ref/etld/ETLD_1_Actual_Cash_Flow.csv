@@ -1,0 +1,6 @@
+Data Element,PAS,Start_Date,End_Date,Policy_Number,Basic_Plan_Code,Rider_Plan_Code,Claim_Number,Incurred_Date,Reported_Date,Paid_Date,Plan_Currency,Transaction_Currency,Reported_Currency,GL_Code,Claim_Component,Amount_Plan_Currency,Amount_Transaction_Currency,Amount_Reported_Currency,CF Nature,Contract,Policy_Effective_date,Renewal_Term,Cohort_UC,Cohort_RC,Invoice_Number,CF Type,Entity_Code,IFRS_CF_Type,Cohort,Portfolio,IFRS17_Group,Measurement Model,RI_Portfolio,RI_IFRS17_Group,RI_Measurement Model,Paid_Past_Ind,Date,RI_Run_Number,RI_Input_Variable,
+NA,AS400,1/1/2021,30/6/2021,1,MRL,MRL1,NA,1/3/2021,NULL,NULL,USD,USD,HKD,XXX,NA,5,5,39,PAID,INSURANCE,NULL,NULL,NULL,NULL,NULL,Commission as a % of premium,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,AS400,1/1/2021,30/6/2021,2,EDS,WOPP,NA,2/12/2020,NULL,NULL,USD,USD,HKD,XXX,NA,5,5,39,PAID,INSURANCE,NULL,NULL,NULL,NULL,NULL,Commission as a % of premium,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,AS400,1/1/2021,30/6/2021,3,EDK,EDS1,NA,8/4/2021,NULL,NULL,USD,USD,HKD,XXX,NA,5,5,39,PAID,INSURANCE,NULL,NULL,NULL,NULL,NULL,Commission as a % of premium,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
